@@ -1,0 +1,19 @@
+1. Download the "TodoInstaller.zip" file.
+   Make sure it's in your "Downloads" folder.
+
+2. Here are two Ways based of which programs you have:
+   
+   1. (You NEED WinRAR)
+      Select the "TodoInstaller.zip" file and right click on it.
+      Select the option "Extract to "TodoInstaller\"".
+
+   2. (You DONT need WinRAR)
+      Select the "TodoInstaller.zip" file and right click on it.
+      Select the option "Extract all...".
+      DONT change the path in the window, just hit "Extract".
+
+3. Now open the new "TodoInstaller" folder.
+
+4. Run the "install.bat" file.
+   It will install the Todo App on your Computer.
+   It will also create a Desktop shortcut called "Todo".
